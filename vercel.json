@@ -1,0 +1,17 @@
+{
+  "env": {
+    "API_URL": "https://backend.edukasiplus.com"
+  },
+  "build": {
+    "env": {
+      "API_URL": "https://backend.edukasiplus.com"
+    }
+  },
+  "builds": [
+    {
+      "src": "nuxt.config.js",
+      "use": "@nuxtjs/vercel-builder",
+      "config": {}
+    }
+  ]
+}
