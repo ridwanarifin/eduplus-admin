@@ -1,6 +1,11 @@
 {
   "name": "edukasiplus",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "author": "ridwan <ridwanarifin@pm.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridwanarifin/scl-dashboard.git"
+  },
   "private": true,
   "scripts": {
     "dev": "nuxt",
